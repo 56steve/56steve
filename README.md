@@ -11,9 +11,13 @@
 # 📊 GitHub Stats:
 
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=56steve&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=56steve&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400" />
+</p>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=56steve&layout=compact&theme=radical&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=56steve&layout=compact&theme=radical&cache_seconds=86400" />
+</p>
 
 ### ✍️ Quote!
 "Experience is the Best Teacher"
