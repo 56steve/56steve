@@ -11,9 +11,7 @@
 # 📊 GitHub Stats:
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=56steve&show_icons=true&theme=radical&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=56steve&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=56steve&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=56steve&layout=compact&theme=radical&cache_seconds=86400)
 
