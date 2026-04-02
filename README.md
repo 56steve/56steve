@@ -11,14 +11,10 @@
 # 📊 GitHub Stats:
 
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=56steve&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=56steve&layout=compact&theme=radical&cache_seconds=86400" />
-</p>
+![Stats](https://stats.dooboo.io/api/github-stats-advanced?login=56steve)
 
+![Top Languages](https://stats.dooboo.io/api/github-top-langs?login=56steve)
 ### ✍️ Quote!
 "Experience is the Best Teacher"
 
