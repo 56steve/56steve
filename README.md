@@ -16,13 +16,7 @@
 ![GitHub Streak](https://github-readme-streak-stats-sepia-eight.vercel.app?user=56steve&theme=transparent)
 
 
-# 📊 GitHub Stats:
 
-
-
-![Stats](https://stats.dooboo.io/api/github-stats-advanced?login=56steve)
-
-![Top Languages](https://stats.dooboo.io/api/github-top-langs?login=56steve)
 ### ✍️ Quote!
 "Experience is the Best Teacher"
 
