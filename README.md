@@ -16,8 +16,6 @@
 ![GitHub Streak](https://github-readme-streak-stats-sepia-eight.vercel.app?user=56steve&theme=transparent)
 
 
-
-### ✍️ Quote!
 "Experience is the Best Teacher"
 
 ---
